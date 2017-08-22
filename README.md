@@ -1,2 +1,8 @@
 # excel-demo
-导出EXCAL
+```
+npm init
+npm i
+node test
+node app.js
+```
+
